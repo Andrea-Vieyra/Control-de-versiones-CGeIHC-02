@@ -19,7 +19,7 @@ Repositorio para llevar un control de versiones para el laboratorio de Computaci
   </tr>
   </table>
 
-- **Nombre completo:** Vieyra Márquez Andrea*
+- **Nombre completo:** Vieyra Márquez Andrea
 - **Nº de cuenta:** 319322248
 - **Grupo de laboratorio:** 02
 - **Grupo de teoría:** 04
