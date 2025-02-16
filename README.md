@@ -4,4 +4,15 @@ Control de versiones para el laboratorio de Computación Gráfica e Interacción
   <table width="100%">
   <tr>
     <td align="left" width="25%">
+      <img src="https://github.com/Andrea-Vieyra/Control-de-versiones-CGeIHC-02/blob/main/Escudo_UNAM.jpg" alt="Escudo UNAM" width="150">
+    </td>
+    <td align="center" width="50%">
+      <h1>UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO</h1>
+      <h2>FACULTAD DE INGENIERÍA</H2>
+      <h3>DIVISIÓ DE INGENIERÍA ELÉCTRICA</h3>
+      <strong>INGENIERÍA EN COMPUTACIÓN</strong><br>
+      <strong>LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA</strong>
+    </td>
+    <td align="right" width="25%">
       <img src=
+    </td>
