@@ -14,5 +14,14 @@ Control de versiones para el laboratorio de Computación Gráfica e Interacción
       <strong>LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA</strong>
     </td>
     <td align="right" width="25%">
-      <img src=
+      <img src="https://github.com/Andrea-Vieyra/Control-de-versiones-CGeIHC-02/blob/main/Escudo_FI.jpg" alt="Escudo FI" width="150">
     </td>
+  </tr>
+  </table>
+
+- **Nombre completo:** Vieyra Márquez Andrea*
+- **Nº de cuenta:** 319322248
+- **Grupo de laboratorio:** 02
+- **Grupo de teoría:** 04
+- **Semestre:** 2025-2
+  
