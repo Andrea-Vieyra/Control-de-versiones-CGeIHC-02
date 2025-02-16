@@ -1,5 +1,5 @@
 # Control-de-versiones-CGeIHC-02
-Control de versiones para el laboratorio de Computación Gráfica e Interacción Humano Computadora.
+Repositorio para llevar un control de versiones para el laboratorio de Computación Gráfica e Interacción Humano Computadora.
 
   <table width="100%">
   <tr>
