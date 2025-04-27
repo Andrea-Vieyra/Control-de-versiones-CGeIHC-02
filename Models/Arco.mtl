@@ -12,8 +12,8 @@ newmtl Gate_Light_phongE5SG
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Andi\OneDrive\Documentos\UNIVERSIDAD\OCTAVO SEMESTRE\Computación Gráfica\Laboratorio\PRACTICAS Y PREVIOS\Previo6\Textures\Piedra.png
-	map_Kd C:\Users\Andi\OneDrive\Documentos\UNIVERSIDAD\OCTAVO SEMESTRE\Computación Gráfica\Laboratorio\PRACTICAS Y PREVIOS\Previo6\Textures\Piedra.png
+	map_Ka Piedra.png
+	map_Kd Piedra.png
 
 newmtl Gate_Light_phongE6SG
 	Ns 10.0000
@@ -26,5 +26,5 @@ newmtl Gate_Light_phongE6SG
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Andi\OneDrive\Documentos\UNIVERSIDAD\OCTAVO SEMESTRE\Computación Gráfica\Laboratorio\PRACTICAS Y PREVIOS\Previo6\Textures\gate_diffuse.jpg
-	map_Kd C:\Users\Andi\OneDrive\Documentos\UNIVERSIDAD\OCTAVO SEMESTRE\Computación Gráfica\Laboratorio\PRACTICAS Y PREVIOS\Previo6\Textures\gate_diffuse.jpg
+	map_Ka gate_diffuse.jpg
+	map_Kd gate_diffuse.jpg
