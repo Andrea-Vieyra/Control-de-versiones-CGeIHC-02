@@ -12,5 +12,5 @@ newmtl 02___Default
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\proyectos VS\Visual Studio 2022\P09-319322248\P09-319322248\Textures\Azul.png
-	map_Kd C:\proyectos VS\Visual Studio 2022\P09-319322248\P09-319322248\Textures\Azul.png
+	map_Ka Azul.png
+	map_Kd Azul.png
